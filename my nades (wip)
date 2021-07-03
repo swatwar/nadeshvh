@@ -1,0 +1,37 @@
+[
+  {
+    "name": ["RAIL", "3d"],
+    "weapon": "weapon_molotov",
+    "position": [-2557.0302734375, 37.917896270752, 11608.03125],
+    "viewangles": [2.407851934433, 65.532997131348],
+    "grenade": {
+      "recovery_jump": true,
+      "delay": 5,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct wall", "sandbox wall (right)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1564.7670898438, 847.73541259766, 11790.041992188],
+    "viewangles": [6.339656829834, -165.78038024902],
+    "grenade": {
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct wall", "sandboxs wall (right)"],
+    "weapon": "weapon_molotov",
+    "position": [-1567.9693603516, 1019.7979125977, 11776.03125],
+    "viewangles": [12.921883583069, -148.34140014648],
+    "grenade": {
+      "run": 14,
+      "recovery_jump": true,
+      "recovery_yaw": -154,
+      "run_yaw": -90,
+      "jump": true
+    }
+  }
+]
