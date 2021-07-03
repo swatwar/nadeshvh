@@ -1,89 +1,175 @@
-"de_shortdust":[
-  {
-    "name": ["pit", "connector"],
-    "weapon": "weapon_hegrenade",
-    "position": [-1279.9969482422, 1009.5172119141, -167.86141967773],
-    "viewangles": [1.7068612575531, -24.922212600708],
-    "grenade": {
-      "run": 11,
-      "recovery_jump": true,
-      "recovery_yaw": 90,
-      "jump": true
-    }
-  },
-  {
-    "name": ["pit", "spawn connector"],
-    "weapon": "weapon_molotov",
-    "position": [-1247.9610595703, 1186.1047363281, -101.55474853516],
-    "viewangles": [7.6487669944763, -33.396965026855],
-    "grenade": {
-      "run": 13,
-      "recovery_jump": true,
-      "recovery_yaw": 90,
-      "jump": true
-    }
-  },
-  {
-    "name": ["car", "mid site "],
-    "description": "otherside of box",
-    "weapon": "weapon_hegrenade",
-    "position": [-1279.9836425781, 960.8759765625, -166.90493774414],
-    "viewangles": [-3.8624510765076, -18.06955909729],
-    "grenade": {
-      "run": 13,
-      "recovery_jump": true,
-      "recovery_yaw": 90,
-      "jump": true
-    }
-  },
-  {
-    "name": ["box", "car"],
-    "description": "safe",
-    "weapon": "weapon_molotov",
-    "position": [-969.91448974609, 970.13732910156, -65.142753601074],
-    "viewangles": [-20.443548202515, -32.943733215332]
-  },
-  {
-    "name": ["broken piece?", "tunnel"],
-    "weapon": "weapon_molotov",
-    "position": [84.157188415527, 972.02954101563, 74.571166992188],
-    "viewangles": [-1.9707154035568, 46.505893707275]
-  },
-  {
-    "name": ["outside tuns", "spawn fd"],
-    "weapon": "weapon_molotov",
-    "position": [435.65670776367, 527.28723144531, 7.53125],
-    "viewangles": [4.0947737693787, -140.80212402344],
-    "grenade": {
-      "run": 26,
-      "recovery_jump": true,
-      "recovery_yaw": 135,
-      "jump": true
-    }
-  },
-  {
-    "name": ["broken piece", "fd car (MEGA UNSAFE)"],
-    "description": "MEGA UNSAFE NIGGA",
-    "weapon": "weapon_hegrenade",
-    "position": [-81.84398651123, 969.46862792969, 85.786491394043],
-    "viewangles": [41.949375152588, -77.921447753906],
-    "grenade": {
-      "run": 12,
-      "recovery_jump": true,
-      "recovery_yaw": 118,
-      "run_yaw": 90
-    }
-  },
-  {
-    "name": ["box", "FD CAR"],
-    "weapon": "weapon_hegrenade",
-    "position": [-184.38031005859, 1168.01953125, 129.03125],
-    "viewangles": [43.383560180664, -83.220405578613],
-    "grenade": {
-      "run": 12,
-      "recovery_jump": true,
-      "run_yaw": 90,
-      "jump": true
-    }
-  }
-],
+{
+   "name":"cahpts 2x2 nades",
+   "description":"fart",
+   "locations":{
+      "de_shortdust":[
+         {
+            "name":[
+               "pit",
+               "connector"
+            ],
+            "weapon":"weapon_hegrenade",
+            "position":[
+               -1279.9969482422,
+               1009.5172119141,
+               -167.86141967773
+            ],
+            "viewangles":[
+               1.7068612575531,
+               -24.922212600708
+            ],
+            "grenade":{
+               "run":11,
+               "recovery_jump":true,
+               "recovery_yaw":90,
+               "jump":true
+            }
+         },
+         {
+            "name":[
+               "pit",
+               "spawn connector"
+            ],
+            "weapon":"weapon_molotov",
+            "position":[
+               -1247.9610595703,
+               1186.1047363281,
+               -101.55474853516
+            ],
+            "viewangles":[
+               7.6487669944763,
+               -33.396965026855
+            ],
+            "grenade":{
+               "run":13,
+               "recovery_jump":true,
+               "recovery_yaw":90,
+               "jump":true
+            }
+         },
+         {
+            "name":[
+               "car",
+               "mid site "
+            ],
+            "description":"otherside of box",
+            "weapon":"weapon_hegrenade",
+            "position":[
+               -1279.9836425781,
+               960.8759765625,
+               -166.90493774414
+            ],
+            "viewangles":[
+               -3.8624510765076,
+               -18.06955909729
+            ],
+            "grenade":{
+               "run":13,
+               "recovery_jump":true,
+               "recovery_yaw":90,
+               "jump":true
+            }
+         },
+         {
+            "name":[
+               "box",
+               "car"
+            ],
+            "description":"safe",
+            "weapon":"weapon_molotov",
+            "position":[
+               -969.91448974609,
+               970.13732910156,
+               -65.142753601074
+            ],
+            "viewangles":[
+               -20.443548202515,
+               -32.943733215332
+            ]
+         },
+         {
+            "name":[
+               "broken piece?",
+               "tunnel"
+            ],
+            "weapon":"weapon_molotov",
+            "position":[
+               84.157188415527,
+               972.02954101563,
+               74.571166992188
+            ],
+            "viewangles":[
+               -1.9707154035568,
+               46.505893707275
+            ]
+         },
+         {
+            "name":[
+               "outside tuns",
+               "spawn fd"
+            ],
+            "weapon":"weapon_molotov",
+            "position":[
+               435.65670776367,
+               527.28723144531,
+               7.53125
+            ],
+            "viewangles":[
+               4.0947737693787,
+               -140.80212402344
+            ],
+            "grenade":{
+               "run":26,
+               "recovery_jump":true,
+               "recovery_yaw":135,
+               "jump":true
+            }
+         },
+         {
+            "name":[
+               "broken piece",
+               "fd car (MEGA UNSAFE)"
+            ],
+            "description":"MEGA UNSAFE NIGGA",
+            "weapon":"weapon_hegrenade",
+            "position":[
+               -81.84398651123,
+               969.46862792969,
+               85.786491394043
+            ],
+            "viewangles":[
+               41.949375152588,
+               -77.921447753906
+            ],
+            "grenade":{
+               "run":12,
+               "recovery_jump":true,
+               "recovery_yaw":118,
+               "run_yaw":90
+            }
+         },
+         {
+            "name":[
+               "box",
+               "FD CAR"
+            ],
+            "weapon":"weapon_hegrenade",
+            "position":[
+               -184.38031005859,
+               1168.01953125,
+               129.03125
+            ],
+            "viewangles":[
+               43.383560180664,
+               -83.220405578613
+            ],
+            "grenade":{
+               "run":12,
+               "recovery_jump":true,
+               "run_yaw":90,
+               "jump":true
+            }
+         }
+      ]
+   }
+}
